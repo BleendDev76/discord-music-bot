@@ -1,0 +1,19 @@
+# Archivos compilados (Java)
+*.class
+*.jar
+*.war
+*.ear
+
+# Carpetas de construcción
+bin/
+build/
+target/
+out/
+
+# Configuración de VS Code
+.vscode/
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
